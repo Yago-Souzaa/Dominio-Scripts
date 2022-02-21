@@ -1,0 +1,8 @@
+scripts para bloquear os usuarios do Dominio por OU.
+
+
+Deve ser editado a variavel Ou para o funcionamento.
+ 
+
+Exemplo de OUs: UNIFENAS/Alfenas/Usuarios
+"ou=Usuarios,ou=Alfenas,ou=Unifenas,dc=unifenas,dc=br"
